@@ -1,0 +1,53 @@
+body {
+    font-family:sans-serif;
+    font-weight: bold;
+    background-color: rgb(74, 158, 207);}
+    header{
+        color: white;
+    }
+    nav ul {
+        text-align: left;
+        padding: 10px 0;
+        list-style: none;}
+    nav ul li {
+        margin-right: 20px;
+        display: inline;
+    }
+    nav ul li a {
+        color:brown;
+        text-decoration: none;
+        }
+    .Blog {   
+        color: rgb(46, 125, 228);
+        text-align: left;
+         font-size: 700;
+        font-weight: bold;
+    }
+    .Blog1 { 
+        padding: 20px;
+        margin: 10px;
+        border: 20%;
+        background-color: white;
+        display:block;
+        justify-content: left;
+        }
+    .Blog2 {
+        padding: 20px;
+        margin: 10px;
+        border: 20%;
+        background-color: white;
+            display: block;
+            justify-content:left ;
+            
+         }
+         .Blog2 ul {
+            color: black;
+         }
+         p {
+            color: black;
+            font-family:'Times New Roman', Times, serif ;
+         }
+         #no2 {
+            color: rgb(15, 15, 15);
+            font-family:'Times New Roman', Times, serif ;
+         }

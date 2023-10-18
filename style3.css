@@ -1,0 +1,79 @@
+header {
+  color:#1877f2;
+  text-align: center;
+  font-size: x-large;
+}
+h1 {
+  color:#1877f2;
+text-align: center;
+font-size:x-large; 
+}
+p {
+  color: #000;
+  text-align: center;
+  font-size: large;
+}
+a {
+  color: #000;
+  text-align: center;
+  font-size:small;
+}
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:#ccc;
+}
+
+#container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+}
+#login-form {
+    background-color: #fff;
+    padding: 20px;
+}
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+input[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #1877f2;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:white;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  button[type="submit"] {
+    width: 100%;
+    background-color: #1877f2;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  button[type="submit1"]:hover {
+    background-color: #115eab;
+  }
+  
