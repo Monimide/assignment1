@@ -21,7 +21,7 @@ body {
     height: 10000px;
 }
 .static-box{
-  background-image: url(pexels-pixabay-36753.jpg);
+  background-image: url(Images/pexels-pixabay-36753.jpg);
   background-size: cover;
   background-attachment:scroll;
   background-position: center;
